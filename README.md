@@ -1,4 +1,4 @@
-# Indore-Datathon
+# IndoRE: Relation Extraction for Low Resource Indian Languages
  
 This repository contains the scripts and notebooks for the IndoRE challenge. 
 The data folder contains the dataset which was provided along with the one we obtained by distant supervision. The test actual outputs are stored in test_results.csv file.
